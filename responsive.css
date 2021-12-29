@@ -1,0 +1,179 @@
+@media only screen and (max-width:860px){
+    
+    .nav-list{
+        flex-direction: column;
+        width: 70%;
+    }
+    .navbar{
+        transition: all 0.7s ease-out;
+       align-items: center;
+    }
+    .burger{
+        display: block;
+    }
+    .h-nav-resp{
+        height: 70px;
+    }
+    .v-class-resp{
+        opacity: 0;
+    }
+    .name-container .text{
+        margin-left: 15px;
+        width: 69px;
+        font-size: 14px;
+        position: relative;
+        left: 20px;
+        top: 47px;
+        z-index: 1;
+    }
+    .bio-container .text {
+        margin-right: 15px;
+        position: relative;
+        left: 208px;
+        font-size: 18px;
+        top: 290px;
+        width: 102px;
+    }
+    .text1 {
+        position: relative;
+        top: -150px;
+        margin: 0 29px 0 24px;
+        text-align: center;
+    }
+    .text2{
+        position: relative;
+        top: -130px;
+        font-size: 15px;
+    }
+    .circle img{
+        position: relative;
+        top: -220px;
+    }
+
+    .Quote h1{
+        margin: 15px 15px 0 15px;
+        font-size: 26px;
+        position: relative;
+        top: 40px;
+    }
+    .Quote span{
+        width: 100px;
+        position: relative;
+        top: 50px;
+        font-size: 13px;
+        left: 230px;
+    }
+    .Service{
+        height: 130vh;
+    }
+    .Box{
+        width: 15rem;
+        display: flex;
+        justify-content: center;
+        height:8rem;
+        position: relative;
+        top: -320px;
+        left: 80px;
+    }
+    .Box h2{
+        font-size: 20px;
+    position: absolute;
+    top: 5px;    
+    }
+    
+    .Box p{
+        font-size: 14px;
+        position: absolute;
+        bottom: 0px;
+        padding: 14px;
+    }
+    .Box1{
+        width: 15rem;
+        display: flex;
+        justify-content: center;
+        height:8rem;
+        position: relative;
+        top: -410px;
+        left: 80px;
+    }
+    .Box1 h2{
+        font-size: 20px;
+    position: absolute;
+    top: 5px;    
+    }
+    .Box1 p{
+        font-size: 14px;
+        position: absolute;
+        bottom: 0px;
+        padding: 14px;
+    }
+    .manbun{
+        width: 100px;
+        position: relative;
+        left: 165px;
+        top: 400px;
+    }
+    .code
+    {
+        height: 50px;
+        left: 300px;
+        top: 450px;
+    }
+    .python{
+        left: 280px;
+        top: 370px;
+    }
+    .js{
+        width: 50px;
+        position: relative;
+        top: 350px;
+        left: -167px;
+    }
+    .java
+    {
+        width: 60px;
+        position: relative;
+        left :-80px;
+        top: 280px;
+    }
+    .html {
+        width: 50px;
+        position: relative;
+        left: 32px;
+        top: 466px;
+    }
+    .css{
+        width: 40px;
+        position: relative;
+        left: 110px;
+        top: 230px;
+    }
+    .node {
+        position: relative;
+        left: -205px;
+        top: 430px;
+        width: 50px;
+    }
+    .figma
+    {
+        position: relative;
+        left: 230px;
+        top: 218px;
+    }
+    .Social_icons li{
+        font-size: 20px;
+        position: relative;
+        top: 190px;
+    }
+    .Social_icons li a img{
+        width: 30px;
+        position: relative;
+        top: 10px;
+    }
+
+    .Contact h1{
+        font-size: 2rem;
+        position: relative;
+        top: 0px;
+    }
+}
