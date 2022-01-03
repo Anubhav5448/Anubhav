@@ -120,8 +120,8 @@
         top: 450px;
     }
     .python{
-        left: -75px;
-        top: 420px;
+        left: 215px;
+        top: 370px;
     }
     .js{
         width: 50px;
@@ -150,14 +150,14 @@
     }
     .node {
         position: relative;
-        left: -205px;
-        top: 430px;
+        left: 100px;
+        top: 365px;
         width: 50px;
     }
     .figma
     {
         position: relative;
-        left: 270px;
+        left: 190px;
         top: 220px;
     }
     .Social_icons li{
